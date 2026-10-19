@@ -1,0 +1,12 @@
+{
+  "name": "simon-mods",
+  "owner": { "name": "Simon" },
+  "description": "Simon's own Claude Code mods.",
+  "plugins": [
+    {
+      "name": "vscode-timeline",
+      "source": "./vscode-timeline",
+      "description": "Draws the desktop Code tab transcript like the Claude VS Code extension."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vscode-timeline",
+  "version": "1.0.0",
+  "author": { "name": "Simon" },
+  "description": "Draws the desktop Code tab transcript like the Claude VS Code extension: a dotted timeline, tool calls with IN/OUT cards, a plain spinner line.",
+  "types": "./types/index.d.ts"
+}
